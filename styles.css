@@ -96,8 +96,9 @@ h1, h2, h3, h4{
     background-image: url("cheers.gif");
 }
 
-#footer {
+.footer {
     font-style: italic;
+    font-weight: bolder;
     width: 800px;
     margin: 40px auto 20px;
 }
