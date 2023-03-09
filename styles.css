@@ -10,9 +10,9 @@ h1, h2, h3, h4{
 }
 
 #bff-img {
-    width: 150px;
+    width: 300px;
     border-radius: 50%;
-    border: 6px solid #EFB0C9;
+    border: 8px solid #EFB0C9;
     margin-bottom: 10px;
 }
 
